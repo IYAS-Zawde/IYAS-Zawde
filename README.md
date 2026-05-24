@@ -38,9 +38,11 @@ Motivated Informatics Engineer with comprehensive expertise across software deve
 
 ## Education
 
-### **Master in Web Science (MWS)** *Syrian Virtual University (SVU), Syria (February 2021 – Present)* * Advanced coursework in Web Systems, Information Retrieval, and Advanced Application Architectures.
+### **Master in Web Science (MWS)** *Syrian Virtual University (SVU), Syria (February 2021 – Present)* 
+* Advanced coursework in Web Systems, Information Retrieval, and Advanced Application Architectures.
 
-### **Bachelor of Science in Informatics Engineering** *Al Baath University, Homs, Syria (September 2014 – September 2019)* * *Specialization:* Software Engineering and Informatics Systems (Graduated with Honors: 76.67%).
+### **Bachelor of Science in Informatics Engineering** *Al Baath University, Homs, Syria (September 2014 – September 2019)* 
+* *Specialization:* Software Engineering and Informatics Systems (Graduated with Honors: 76.67%).
 * *Core Studies:* Software Engineering, Database Systems, Data Mining, Parallel Programming, Computer Networks, and Distributed Systems.
 
 ---
