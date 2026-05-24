@@ -1,5 +1,6 @@
 # Iyas Zawde
-**Software Engineer & IT Infrastructure Specialist** Erbil, Iraq | [iyas.zawde@gmail.com](mailto:iyas.zawde@gmail.com) | [GitHub](https://github.com/IYAS-Zawde) | [LinkedIn](https://linkedin.com/in/iyas-zawde)
+**Software Engineer & IT Infrastructure Specialist** Erbil, Iraq 
+| [iyas.zawde@gmail.com](mailto:iyas.zawde@gmail.com) | [GitHub](https://github.com/IYAS-Zawde) | [LinkedIn](https://linkedin.com/in/iyas-zawde)
 
 ---
 
@@ -16,23 +17,28 @@ Motivated Informatics Engineer with comprehensive expertise across software deve
 ## Professional Experience
 
 ### **Tools and Software Developer** | Engineering World Company  
-*Erbil, Iraq (June 2024 – Present)* * Developed practical, business-oriented software tools to streamline daily enterprise operations.
+*Erbil, Iraq (June 2024 – Present)* 
+* Developed practical, business-oriented software tools to streamline daily enterprise operations.
 * Leveraged Python and AI-assisted development to automate highly repetitive tasks, reduce manual errors, and optimize existing code bases.
 * Collaborated across multidisciplinary teams to deliver stable, maintainable, and pragmatic software applications catering to operational needs.
 
 ### **Supervising and Maintenance Engineer** | Ebla International School  
-*Erbil, Iraq (September 2023 – June 2024)* * Supervised site-wide technical operations, focusing on security infrastructure, CCTV, and biometric fingerprint systems.
+*Erbil, Iraq (September 2023 – June 2024)* 
+* Supervised site-wide technical operations, focusing on security infrastructure, CCTV, and biometric fingerprint systems.
 * Maintained core IT infrastructure and delivered direct technical support to ensure seamless administrative operations.
 
 ### **IT Facilitator** | National Center for the Distinguished  
-*Syria (September 2021 – May 2023)* * Managed high-performance computer laboratories and administered internal servers.
+*Syria (September 2021 – May 2023)* 
+* Managed high-performance computer laboratories and administered internal servers.
 * Designed and executed technical lesson and project plans focused on software development and computer science principles.
 
 ### **Computer Technician (Owner & Manager)** | Computer Repair Enterprise  
-*Homs, Syria (May 2020 – March 2022)* * Managed commercial computer repair shop operations, providing hardware/software diagnostic services and client technical support.
+*Homs, Syria (May 2020 – March 2022)* 
+* Managed commercial computer repair shop operations, providing hardware/software diagnostic services and client technical support.
 
 ### **Data Entry Clerk** | Al-Fouad Money Transfer Company  
-*Homs, Syria (October 2019 – March 2020)* * Maintained and managed high-accuracy financial logs across multiple secure data entry systems.
+*Homs, Syria (October 2019 – March 2020)* 
+* Maintained and managed high-accuracy financial logs across multiple secure data entry systems.
 
 ---
 
@@ -59,11 +65,13 @@ Motivated Informatics Engineer with comprehensive expertise across software deve
 ---
 
 ## Voluntary & Community Experience
-* **Content Editor & Visual Designer** | Scientific Content Initiative *(October 2022)* Co-founded a digital repository to localize and accurately translate peer-reviewed scientific references. Responsible for graphics architecture, layout adjustments, and content formulation.
-* **Psychological Support Volunteer** | Junior Senior Institution *(June 2018 – September 2018)* Delivered structural, community-oriented social and psychological development frameworks to children.
+* **Content Editor & Visual Designer** | Scientific Content Initiative *(October 2022)*
+  * Co-founded a digital repository to localize and accurately translate peer-reviewed scientific references. Responsible for graphics architecture, layout adjustments, and content formulation.
+* **Psychological Support Volunteer** | Junior Senior Institution *(June 2018 – September 2018)*
+  * Delivered structural, community-oriented social and psychological development frameworks to children.
 
 ---
 
 ## Languages
 * **Arabic:** Native
-* **English:** Professional Working Proficiency (Intermediate/Very Good)
+* **English:** Professional Working Proficiency (Intermediate/Very Good/B2)
