@@ -2,6 +2,8 @@
 **Software Engineer & IT Infrastructure Specialist** Erbil, Iraq 
 | [iyas.zawde@gmail.com](mailto:iyas.zawde@gmail.com) | [GitHub](https://github.com/IYAS-Zawde) | [LinkedIn](https://linkedin.com/in/iyas-zawde)
 
+Check my [Learning Hub - Tech Articles and References](https://github.com/IYAS-Zawde/Learning-Hub---Tech-Articles-and-References)
+
 ---
 
 ## Professional Summary
