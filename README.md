@@ -9,6 +9,15 @@ Check my [Learning Hub - Tech Articles and References](https://github.com/IYAS-Z
 ## Professional Summary
 Motivated Informatics Engineer with comprehensive expertise across software development, systems optimization, and IT infrastructure. Proven track record of translating complex workflows into efficient technical solutions, leveraging Python-driven automation and AI-assisted development to accelerate problem-solving. Adept at managing critical technical operations, data analysis, and cross-departmental collaboration within corporate, educational, and technical environments.
 
+### **CORE COMPETENCIES**
+* **Operational Leadership:** Project Management, Team Coordination, Resource Allocation.
+* **Procurement & Logistics:** Vendor Relations, Requests for Quotations (RFQs), Commercial & Technical Evaluation.
+* **Process Optimization:** Workflow Automation (Python, Scripting), Resource Efficiency, Systems Thinking.
+* **Data & Administration:** Advanced Data Entry & Management, Business Intelligence, Reporting.
+* **Strategic Communication:** Cross-Functional Collaboration, Conflict Resolution, Training & Mentorship.
+  
+   [Check Operations & IT Operations Manager | Administrative Lead Skills](./Iyas_Zawde_Managerial_CV.md)
+
 ## Technical Skills
 * **Languages & Frameworks:** Python, JavaScript, TypeScript, Angular, Java (Spring), C#, ASP.NET, HTML/CSS
 * **Data Science & BI:** Power BI, Tableau, Data Analysis & Visualization, Machine Learning Basics (TensorFlow 2.0)
